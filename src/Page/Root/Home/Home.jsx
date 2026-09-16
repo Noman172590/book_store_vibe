@@ -1,0 +1,8 @@
+const Home = () => {
+  return (
+  <div>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Magnam architecto nulla consequuntur illum, assumenda vero recusandae, aut animi vitae quis in illo ad ipsum autem quidem asperiores obcaecati consectetur eveniet voluptatem maxime voluptate nobis inventore fuga! Vero recusandae unde quas deserunt pariatur magnam molestiae fugiat, ea similique rerum. Sapiente consectetur reiciendis dignissimos molestiae amet quas, consequuntur voluptas, aliquam recusandae temporibus laborum dolores. Est esse quisquam iste cum unde aspernatur sapiente. Doloremque nobis provident illum, hic dolor sequi! Recusandae voluptatem explicabo ullam dolor mollitia unde, doloribus accusantium autem facilis vel molestiae dolorem aliquam aut, nostrum enim. Dolorum temporibus itaque inventore, eligendi illum provident sunt recusandae reprehenderit dolores tempora quibusdam in, blanditiis tenetur! Vitae, rerum cupiditate dolorum ex dolorem excepturi dolores dolor cum natus quod doloremque debitis sint ducimus quam est laudantium. Similique natus ut assumenda molestias veniam est rem ipsum, placeat possimus quae reprehenderit facere. Sunt ipsa minus officia praesentium voluptatibus exercitationem doloremque nihil. Soluta iure similique blanditiis. Fugiat dignissimos vero, soluta modi id laborum placeat. Neque pariatur consequatur corporis architecto expedita esse distinctio obcaecati cumque laboriosam doloribus, facere tempore quidem commodi modi omnis? Quo temporibus et minus eos rerum quae? Illo autem, molestias facere rem nam pariatur vitae repellat nostrum!</p>
+  </div>);
+};
+
+export default Home;

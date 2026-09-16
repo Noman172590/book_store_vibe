@@ -1,1 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap");
+
 @import "tailwindcss";
+
+@theme {
+  /* font  */
+  --font-poppins: "Work Sans", sans-serif;
+  --font-playfair: "Playfair Display", sans-serif;
+  /* font  */
+
+  /* color  */
+  --color-primary: #131313;
+  --color-green: #23be0a;
+  --color-blue:#59C6D2
+  /* color  */
+}
+body {
+  font-family: "Work Sans", sans-serif;
+}
